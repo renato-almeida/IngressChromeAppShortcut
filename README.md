@@ -8,7 +8,7 @@ The image was obtained from [cr0ybot](https://github.com/cr0ybot) [ingress-logos
 
 Walkthrough
 --------
-* Download [IngressChromeAppShortcut.crx](https://github.com/renato-almeida/IngressChromeAppShortcut/raw/master/Compressed/IngressChromeAppShortcut.crx)
+* Download [IngressChromeAppShortcut.crx](https://github.com/renato-almeida/IngressChromeAppShortcut/raw/master/Download/IngressChromeAppShortcut.crx)
 * Open [chrome://extensions/](chrome://extensions/) in a new tab
 * Drag and drop the **IngressChromeAppShortcut.crx** into the new tab 
 
