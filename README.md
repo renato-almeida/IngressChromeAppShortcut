@@ -14,5 +14,6 @@ Walkthrough
 
 That's it.
 
+![result](https://raw2.github.com/renato-almeida/IngressChromeAppShortcut/master/README%20Images/result.png "Chrome applications list")
 
 Feel free to contribute :)
