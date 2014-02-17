@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	"name": "Ingress Intel Map",
+	"description": "Ingress Intel Map",
+	"version": "1.0",
+	"icons": {
+		"512": "ingress_512.png"
+	},
+	"app": {
+		"urls": [
+			"https://www.ingress.com/intel"
+		],
+		"launch": {
+			"web_url": "https://www.ingress.com/intel"
+		}
+	},
+	"permissions": [
+		
+	]
+}
